@@ -1,2 +1,8 @@
 My first document.
+alfknlafk
 dajkkjfajbgauuavljn
+dkflnlkaf
+
+- git restore --staged namafile.extension
+        -> untuk membatalkan stage/perubahan yg sudah di add
+        
