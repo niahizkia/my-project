@@ -4,7 +4,7 @@ dajkkjfajbgauuavljn
 dkflnlkaf
 
 - git restore --staged namafile.extension
-        -> untuk membatalkan stage/perubahan yg sudah di add
+        -> untuk membatalkan stage/perubahan yg sudah di stage / setelah di add
 
 git restore --worktree outer-six.txt
-        -> untuk membatalkan working tree/directory
+        -> untuk membatalkan perubahan di working tree/directory
