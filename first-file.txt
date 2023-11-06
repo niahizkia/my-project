@@ -12,6 +12,13 @@ dkflnlkaf
 - git difftool 
         -> untuk nge track perubahan
 
+- git log
+        -> digunakan untuk melihat history perubahan 
+- git log nama.file 
+        -> digunakan untuk melihat history perubahan sebuah file
+- git log --oneline
+        -> melihat history dalam versi singkat
+
 zfdjbkjzf
  sejhfng
  kfajnjgal;
