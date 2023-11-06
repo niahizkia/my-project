@@ -1,0 +1,25 @@
+[33mcommit 3f6cb9c9dd28bf1a734c57c85ec3529c7da92eb1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: niahizkia <54629595+niahizkia@users.noreply.github.com>
+Date:   Mon Nov 6 12:00:58 2023 +0700
+
+    fourth commit?
+
+[33mcommit a114b55d5a12e3aafaed3d2d472ea3e8d65ea4a0[m
+Author: Nia Hizkia Pangaribuan <54629595+niahizkia@users.noreply.github.com>
+Date:   Mon Nov 6 11:59:46 2023 +0700
+
+    Create outer-six.txt
+    
+    Commit from Outside
+
+[33mcommit 18b6522aabf94af81af7e422378febd6b746a3a0[m
+Author: niahizkia <54629595+niahizkia@users.noreply.github.com>
+Date:   Mon Nov 6 11:53:57 2023 +0700
+
+    second commit for special file
+
+[33mcommit 2bbe4bf09f944fb1c5cb31ea072cd251387c9187[m
+Author: niahizkia <54629595+niahizkia@users.noreply.github.com>
+Date:   Mon Nov 6 11:39:02 2023 +0700
+
+    This is initial commit
