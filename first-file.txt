@@ -5,4 +5,6 @@ dkflnlkaf
 
 - git restore --staged namafile.extension
         -> untuk membatalkan stage/perubahan yg sudah di add
-        
+
+git restore --worktree outer-six.txt
+        -> untuk membatalkan working tree/directory
