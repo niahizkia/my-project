@@ -6,5 +6,12 @@ dkflnlkaf
 - git restore --staged namafile.extension
         -> untuk membatalkan stage/perubahan yg sudah di stage / setelah di add
 
-git restore --worktree outer-six.txt
+- git restore --worktree outer-six.txt
         -> untuk membatalkan perubahan di working tree/directory
+
+- git difftool 
+        -> untuk nge track perubahan
+
+zfdjbkjzf
+ sejhfng
+ kfajnjgal;
