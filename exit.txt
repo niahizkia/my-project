@@ -23,3 +23,5 @@ Author: niahizkia <54629595+niahizkia@users.noreply.github.com>
 Date:   Mon Nov 6 11:39:02 2023 +0700
 
     This is initial commit
+
+ini dari folder yang berbeda
